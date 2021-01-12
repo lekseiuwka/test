@@ -1,3 +1,2 @@
 # test
-бырбырбыр
-test
+It's just a test
